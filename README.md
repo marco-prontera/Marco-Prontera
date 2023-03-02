@@ -19,8 +19,6 @@ enhance my skills and knowledge.
 
 </a>
 
-<hr/>
-
 ## Technologies
 
 ![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
@@ -73,8 +71,6 @@ enhance my skills and knowledge.
 ![Amazon S3 Badge](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff&style=flat)
 ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=flat)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
-
-<hr/>
 
 ## 📈 GitHub Stats
 
