@@ -1,10 +1,4 @@
-<div style="text-align: center; color: #2bbc8a;">
-
 # Hi there! 👋 I'm Marco Prontera (@marco-prontera)
-
-</div>
-
-<hr/>
 
 I'm a Frontend Engineer with previous experience in backend development, well-equipped to develop scalable and efficient
 solutions for complex web applications.
@@ -13,23 +7,19 @@ I like open-source development, and my commitment to keeping up with emerging te
 enhance my skills and knowledge.
 
 
-<div style="display: table; margin: 0 auto;">
-<a style="display: inline-block" target="_blank" href="https://www.linkedin.com/in/marcoprontera">
+<a target="_blank" href="https://www.linkedin.com/in/marcoprontera">
 
 ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=flat)
 
 </a>
 
-<a style="display: inline-block; margin-left: 16px;" target="_blank" href="https://marco-prontera.medium.com">
+<a target="_blank" href="https://marco-prontera.medium.com">
 
 ![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)
 
 </a>
-</div>
 
 <hr/>
-
-<div style="text-align: center; color: #2bbc8a;">
 
 ## Technologies
 
@@ -84,18 +74,10 @@ enhance my skills and knowledge.
 ![AWS Lambda Badge](https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=flat)
 ![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
 
-</div>
-
-
 <hr/>
-
-<div style="text-align: center; color: #2bbc8a;">
 
 ## 📈 GitHub Stats
 
-</div>
-
-<div style="display: table; margin: 0 auto;">
 <a target="_blank" href="https://github.com/marco-prontera">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=marco-prontera&show_icons=true&line_height=27&count_private=true&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_rank=true" alt="Marco's GitHub Stats" />
 </a>
@@ -103,12 +85,7 @@ enhance my skills and knowledge.
 <a target="_blank" href="https://github.com/marco-prontera">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-prontera&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"  alt="Marco's GitHub Most Used Languages Stats"/>
 </a>
-</div>
-
-<div style="display: table; margin: 0 auto; padding-bottom: 50px">
 
 <a target="_blank" href="https://github.com/marco-prontera/vite-plugin-css-injected-by-js">
   <img height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=marco-prontera&repo=vite-plugin-css-injected-by-js&title_color=2bbc8a&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marco's Top Repo" />
 </a>
-</div>
-
