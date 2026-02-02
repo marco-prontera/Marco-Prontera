@@ -16,7 +16,7 @@ I also invest in developer experience and tooling, using modern workflows and AI
 
 I designed and developed the technical architecture of a Consent Management Platform certified by Google and IAB, translating formal specifications into a production-ready system used across multiple web properties. This involved consent flows, third-party orchestration, performance impact mitigation, and browser storage behavior across contexts.
 
-Part of this work and its performance impact has been featured as a case study on :contentReference[oaicite:0]{index=0}, where I contributed to sharing insights on improving real-user interaction performance:  
+Part of this work and its performance impact has been featured as a case study published on web.dev, where I contributed to sharing insights on improving real-user interaction performance:  
 https://web.dev/case-studies/pubconsent-inp
 
 I’ve worked extensively within the advertising and monetization ecosystem, including integrations with Prebid and Google Publisher Tag, debugging complex runtime and delivery issues, and analyzing how changes affect performance, stability, and user experience at scale. A key part of my work is measuring the real production impact of technical changes through metrics, experimentation, and performance monitoring.
